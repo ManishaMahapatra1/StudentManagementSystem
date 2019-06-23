@@ -11,5 +11,5 @@ Information security is a concern, as universities house an array of sensitive p
 
 We can use the [editor on GitHub](https://github.com/ManishaMahapatra1/StudentManagementSystem/edit/master/README.md) to maintain and preview the content for our website in Markdown files.
 
-Whenever we commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in our site, from the content in your Markdown files.
+Whenever we commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in our site, from the content in our Markdown files.
 
