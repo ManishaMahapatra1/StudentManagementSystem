@@ -1,37 +1,15 @@
+### Welcome to Student Management System
+
+
+A student information system (SIS), student management system, school administration software or student administration system is a management information system for education establishments to manage student data. Student information systems provide capabilities for registering students in courses; documenting grading, results of student tests and other assessment scores; building student schedules; tracking student attendance; and managing many other student-related data needs in a school.
+
+Information security is a concern, as universities house an array of sensitive personal information, making them potentially attractive targets for security breaches, such as those experienced by retail corporations or healthcare providers.
+
+
+
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ManishaMahapatra1/StudentManagementSystem/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We can use the [editor on GitHub](https://github.com/ManishaMahapatra1/StudentManagementSystem/edit/master/README.md) to maintain and preview the content for our website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever we commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in our site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManishaMahapatra1/StudentManagementSystem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
